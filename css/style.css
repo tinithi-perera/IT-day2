@@ -1,0 +1,14 @@
+h1{
+    background-color: rgb(10, 212, 10);
+    color: rgb(14, 14, 106);
+    padding: 20px;
+    margin:0px;
+}
+.intro-h2{
+    background-color:rgb(51, 124, 250);
+    padding: 20px;
+    margin: 0px;
+}
+*{
+    background-color: aquamarine;
+}
